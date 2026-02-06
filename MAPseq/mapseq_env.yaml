@@ -1,0 +1,9 @@
+name: mapseq
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - seaborn
+  - upsetplot
+
+prefix: "/Users/eisko/miniforge3/envs/mapseq"
